@@ -1,1 +1,2 @@
 pattern="^[^@]+@[^@]+\.[^@]{2,}$"    - для input type email
+pattern=".{6,}"    - мінімальна кількість символів в input or select
